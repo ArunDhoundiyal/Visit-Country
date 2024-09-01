@@ -1,0 +1,24 @@
+.country-button-name-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: solid 1px #94a3b8;
+  height: 200px;
+}
+p {
+  color: #ffffff;
+  margin-left: 30px;
+}
+.button-container {
+  align-self: center;
+  margin-right: 30px;
+}
+.visit-button {
+  background-color: #3b82f6;
+  height: 30px;
+  width: 80px;
+  color: #ffffff;
+  font-family: roboto;
+  border-radius: 4px;
+  cursor: pointer;
+}

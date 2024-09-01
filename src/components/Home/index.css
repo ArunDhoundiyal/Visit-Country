@@ -1,0 +1,27 @@
+.bg-container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-size: cover;
+  background-color: #161624;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.country-heading {
+  color: #ffffff;
+}
+
+.unordered-list-country-card-container {
+  display: flex;
+  flex-direction: column;
+  height: 40vh;
+  width: 100%;
+  background-color: #1f1f2f;
+  border: solid 1px #94a3b8;
+  border-radius: 12px;
+  overflow: auto;
+  list-style-type: none;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
